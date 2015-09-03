@@ -1,3 +1,5 @@
+This version is a port from the module.exports CommonJS format to a goog.provide/goog.require format that synergises better with the Google JS tools.
+
 react-chartjs
 ============
 
